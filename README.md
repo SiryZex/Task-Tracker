@@ -31,7 +31,7 @@ The application should run from the command line, accept user actions and inputs
 
 
 # Example
-    The list of commands and their usage is given below:
+The list of commands and their usage is given below:
 
 ## Adding a new task
 > pyhton main.py add "Buy groceries"
