@@ -21,13 +21,13 @@ The application should run from the command line, accept user actions and inputs
 * List all tasks that are in progress
 * Here are some constraints to guide the implementation:
 
-    You should use Python to build this project.
-    Use positional arguments in command line to accept user inputs.
-    Use a JSON file to store the tasks in the current directory.
-    The JSON file should be created if it does not exist.
-    Use the native file system module of your programming language to interact with the JSON file.
-    Do not use any external libraries or frameworks to build this project.
-    Ensure to handle errors and edge cases gracefully.
+You should use Python to build this project.
+Use positional arguments in command line to accept user inputs.
+Use a JSON file to store the tasks in the current directory.
+The JSON file should be created if it does not exist.
+Use the native file system module of your programming language to interact with the JSON file.
+Do not use any external libraries or frameworks to build this project.
+Ensure to handle errors and edge cases gracefully.
 
 
 # Example
